@@ -23,7 +23,8 @@ class _CircularProgressBarState extends State<CircularProgressBar> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text('저장되어 있는 음악 불러 오기'),
+            const Text('assets_audio_player: ^3.0.3+5'),
+            const Text('설치가 안되고 있음'),
           ],
         ),
       ),
